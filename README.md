@@ -21,7 +21,7 @@ I build the digital connective tissue for global markets.
 My career is anchored at the intersection of (API) Infrastructure Strategy, Interoperability, and Regulated Systems. 
 I take an approach to  product management as a system engineering challenge: how do we collapse manual, fragmented workflows into high-concurrency, real-time API logic?
 
-### Highlights
+### Career Highlights
 - Integration and API strategy for leading global consumer goods company: from mass market to retail
 - API design governance for automated solutions following global standards [ISO 20022] for seamless data flow across the World's most critical financial communications network
 - Conversion of complex regulatory mandates [PSD2] into scalable technical capabilities
