@@ -28,7 +28,7 @@ I take an approach to  product management as a system engineering challenge: how
 - Procurement and Supply platform for regulated energy and utility sectors
 
 ### What am I doing here in 2026?
-Enhancing my skills in product management, AI understanding, and AI-assisted development
+Personal projects to enhance my skills in product management, AI understanding, and AI-assisted development
 
 ## What I'm Working On
 - 🔨 "Percentages" — A quiz app inspired by UK game show "The 1% Club". 😄 The app is less important than the learnings!
