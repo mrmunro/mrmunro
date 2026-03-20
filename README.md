@@ -32,6 +32,7 @@ Personal projects to enhance my skills in product management, AI understanding, 
 
 ## What I'm Working On
 - 🔨 "Percentages" — A quiz app inspired by UK game show "The 1% Club". 😄 The app is less important than the learnings!
+- 📝 "Career Catalyst" - a vibe-coded app using Google AI Studio that evaluates profile fit for an advertised role and proposes CV changes.
 - 📚 Using a combination of Gemini CLI, Antigravity, Jules, Claude Code for PM work and AI-assisted development
 - 🤝 Looking for my next role after leaving Swift; feedback on any work that appears here
 
@@ -40,6 +41,7 @@ Personal projects to enhance my skills in product management, AI understanding, 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | Percentages (https://github.com/munronai/percentages) | Quiz app inspired by ["The 1% Club"](https://www.itv.com/watch/the-1percent-club/10a0593) | Typescript, Next.js, Gemini CLI/Antigravity/Jules|
+| Career Catalyst (https://github.com/munronai/career-catalyst) | A guided workflow to help you tailor your CV, analyze job fit, and prepare for interviews using AI. | Typescript, React, Gemini API | 
 
 ## Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/neil-munro-161a8236/)
