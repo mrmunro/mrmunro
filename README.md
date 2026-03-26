@@ -37,6 +37,8 @@ Personal projects to enhance my skills in product management, AI understanding, 
 
 ## Featured Projects
 
+🗒️ NOTE: Latest active repositories are in the [munronai github organisation](https://github.com/orgs/munronai/repositories).
+
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | Career Catalyst Daily (https://github.com/munronai/career-catalyst-daily) | Assistant skills performing role searches and profile gap analysis with optional application/interview prep. | Markdown, Claude Code |
