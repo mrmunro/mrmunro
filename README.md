@@ -31,7 +31,8 @@ I take an approach to  product management as a system engineering challenge: how
 Personal projects to enhance my skills in product management, AI understanding, and AI-assisted development
 
 ## What I'm Working On
-- :mag: "Career Catalyst Daily" - Assistant skills performing role searches and profile gap analysis with optional application/interview prep.
+- 📋 API Architect - Assistant skill to guide user through API design workflow with focus on API capability interview.
+- :mag: "Career Catalyst Daily/Career Catalyst OS" - Assistant performing governed, autonomous role searches and profile gap analysis with optional application/interview prep. Interview Prep includes product proposals for each role.
 - 📚 Using a combination of Gemini CLI, Antigravity, Jules, Claude Code for PM work and AI-assisted development
 - 🤝 Looking for my next role after leaving Swift; feedback on any work that appears here
 
@@ -41,7 +42,9 @@ Personal projects to enhance my skills in product management, AI understanding, 
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| Career Catalyst Daily (https://github.com/munronai/career-catalyst-daily) | Assistant skills performing role searches and profile gap analysis with optional application/interview prep. | Markdown, Claude Code |
+| API Architect (https://github.com/munronai/api-architect) | Assistant skill producing OpenAPI Specification from capabilities surfaced through user interview. Basic API style guide applied. | Markdown, Claude Code, Gemini CLI |
+| Career Catalyst OS (https://github.com/munronai/career-catalyst-os) | Autonomous assistant using skills to perform role searches and profile gap analysis followed by application/interview prep. Simple rule-based governance | Markdown, Claude Code, Gemini CLI, ai-rulez |
+| Career Catalyst Daily (https://github.com/munronai/career-catalyst-daily) | Assistant skills performing role searches and profile gap analysis with optional application/interview prep. | Markdown, Claude Code, Gemini CLI |
 | Percentages (https://github.com/munronai/percentages) | Quiz app inspired by ["The 1% Club"](https://www.itv.com/watch/the-1percent-club/10a0593) | Typescript, Next.js, Gemini CLI/Antigravity/Jules|
 | Career Catalyst (https://github.com/munronai/career-catalyst) | A guided workflow to help you tailor your CV, analyze job fit, and prepare for interviews using AI. | Typescript, React, Gemini API | 
 
