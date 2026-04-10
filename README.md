@@ -40,9 +40,9 @@ Personal projects to enhance my skills in product management, AI understanding, 
 
 🗒️ NOTE: Latest active repositories are in the [munronai github organisation](https://github.com/orgs/munronai/repositories).
 
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| API Architect (https://github.com/munronai/api-architect) | Assistant skill producing OpenAPI Specification from capabilities surfaced through user interview. Basic API style guide applied. | Markdown, Claude Code, Gemini CLI |
+| Project | What It Does | Stack | Notes |
+|---------|-------------|-------|---------|
+| API Architect (https://github.com/munronai/api-architect) | Assistant skill producing OpenAPI Specification from capabilities surfaced through user interview. Basic API style guide applied. | Markdown, Claude Code, Gemini CLI | The capability interview works well and an OpenAPI Specification is generated. Further enhancement needed to bring the spec closer to full OpenAPI Specification conformance. Investigating the use of Vacuum for linting (https://quobix.com/vacuum/) |
 | Career Catalyst OS (https://github.com/munronai/career-catalyst-os) | Autonomous AI assistant using skills to perform role searches and profile gap analysis followed by application/interview prep. Simple rule-based governance | Markdown, Claude Code, Gemini CLI, ai-rulez |
 | Career Catalyst Daily (https://github.com/munronai/career-catalyst-daily) | Assistant skills performing role searches and profile gap analysis with optional application/interview prep. | Markdown, Claude Code, Gemini CLI |
 | Percentages (https://github.com/munronai/percentages) | Quiz app inspired by ["The 1% Club"](https://www.itv.com/watch/the-1percent-club/10a0593) | Typescript, Next.js, Gemini CLI/Antigravity/Jules|
