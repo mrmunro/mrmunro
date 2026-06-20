@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ## Hi, I'm Neil Munro 👋
 
 ## What I Build
-I build the digital connective tissue for global markets.
 
 My career is anchored at the intersection of (API) Infrastructure Strategy, Interoperability, and Regulated Systems. 
 I take an approach to  product management as a system engineering challenge: how do we collapse manual, fragmented workflows into high-concurrency, real-time API logic?
