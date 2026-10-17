@@ -30,6 +30,7 @@ I take an approach to  product management as a system engineering challenge: how
 Personal projects to enhance my skills in product management, AI understanding, and AI-assisted development
 
 ## What I'm Working On
+- 🎛️ pKYC Sandbox - Sandbox simulating continuous dynamic due diligence reporting using System 1 model (Jev)
 - :tv: ICM CCTV - visual layer for outputs of implementations that use [Interpreted Context Methodology](https://github.com/RinDig/Interpreted-Context-Methdology)
 - :mag: "Career Catalyst Daily/Career Catalyst OS/Career Catalyst ICM" - AI assistant "Operating System" performing governed, autonomous role searches and profile gap analysis with optional application/interview prep. Interview Prep includes product proposals for each role.
 - 📚 Using a combination of Gemini CLI, Antigravity, Jules, Claude Code for PM work and AI-assisted development
