@@ -30,6 +30,7 @@ I take an approach to  product management as a system engineering challenge: how
 Personal projects to enhance my skills in product management, AI understanding, and AI-assisted development
 
 ## What I'm Working On
+- 🏘️ Property Complaints Classifier Sandbox - Eliminating Contractor Mis-Dispatch, Wasted Callouts & Awaab's Law Compliance Risks with Two-Stage TypeSafe Jev + M3NHF SOR Gating
 - 🎛️ pKYC Sandbox - Sandbox simulating continuous dynamic due diligence reporting using System 1 model (Jev)
 - :tv: ICM CCTV - visual layer for outputs of implementations that use [Interpreted Context Methodology](https://github.com/RinDig/Interpreted-Context-Methdology)
 - :mag: "Career Catalyst Daily/Career Catalyst OS/Career Catalyst ICM" - AI assistant "Operating System" performing governed, autonomous role searches and profile gap analysis with optional application/interview prep. Interview Prep includes product proposals for each role.
@@ -42,6 +43,9 @@ Personal projects to enhance my skills in product management, AI understanding, 
 
 | Project | What It Does | Stack | Notes |
 |---------|-------------|-------|---------|
+| [Property Complaints Classifier](https://github.com/munronai/property-complaints-classifier) | Eliminating Contractor Mis-Dispatch, Wasted Callouts & Awaab's Law Compliance Risks with Two-Stage TypeSafe Jev + M3NHF SOR Gating | FastAPI, FastMCP, Streamlit, Jev | This prototype demonstrates how a Two-Stage Multimodal TypeSafe Jev Engine paired with M3NHF Schedule of Rates (SOR) codes
+        and a Hard Circuit-Breaker Middleware safely automates unambiguous repairs while intercepting
+        statutory risks, non-repair updates, completed-job recalls, and inappropriate media before a contractor is ever dispatched. |
 | [pKYC Sandbox](https://github.com/munronai/pkyc-sandbox) | Dynamic Due Diligence & pKYC Simulation Sandbox Solving Continuous Monitoring Unit Economics & Alert Fatigue with System 1 (Jev) + System 2 (LLM) Orchestration | FastAPI, FastMCP, Streamlit, Jev | This prototype is an interactive Compliance Time-Machine designed to demonstrate how AI-native due diligence platforms (like Xapien) can transition from expensive one-off reports to event-driven continuous monitoring—allowing you to toggle between a Deterministic Simulation Mode and Live TypeSafe AI Jev + Live Open-Data Feeds (UK Companies House, OpenSanctions, and GDELT DOC 2.0). |
 |[ICM CCTV](https://github.com/munronai/icm-cctv) | A visual layer for outputs of AI agent orchestration framework [ICM](https://github.com/RinDig/Interpreted-Context-Methdology) | Markdown, Claude Code, Antigravity CLI | Provides a set of "screens" to visualise the outputs of ICM pipeline stages, ranging from simple markdown to complex HTML/React such as a kanban board (see https://github.com/munronai/studio-pipeline-operator or https://github.com/munronai/career-catalyst-icm ) |
 | [Career Catalyst ICM](https://github.com/munronai/career-catalyst-icm) | ICM implementation of career catalyst agent skills with icm-cctv layered on top | Claude Code, Antigravity CLI, markdown| | 
